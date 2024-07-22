@@ -1,0 +1,53 @@
+h4 {
+    display: inline;
+   padding-left: 100px;
+  }
+ nav {
+        display: flex;
+        align-items: flex-start;
+        padding-bottom: 150px;
+      }
+      
+#awelenav{
+  padding-right: 700px;
+      }
+
+#titre {
+    padding-left: 400px;
+    padding-bottom: 10px;
+}
+.partie1 {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% ;
+    grid-template-rows: 20% 20%  20% 20%;
+  }
+  
+#cc{
+    display: grid;
+    grid-column-start: 4;
+    grid-column-end : 5;
+    padding-bottom: 50px;
+}
+
+#aa{
+    display: grid;
+    grid-column-start: 2;
+    grid-column-end : 3;
+    padding-bottom: 50px;
+}
+.partie2 {
+    display: grid;
+    grid-template-columns: 20% 20% 20%  ;
+    grid-template-rows: 20% 20%  20% ;
+    padding-left: 100px;
+    justify-content:space-evenly;
+}
+
+ #espace {
+    padding-top: 30px;
+ }
+ #icon {
+    width: 45px; 
+    height: 45px;  
+  }
+ 
